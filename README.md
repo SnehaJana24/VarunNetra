@@ -72,11 +72,21 @@ VarunNetra solves these by:
 
 ---
 
+## 🎯 Use Cases
+
+- Government groundwater monitoring programs  
+- Public health risk assessment  
+- Environmental research and studies  
+- community awareness campaigns  
+- Policy formulation & intervention planning
+
+---
+
 ## 🧠 Tech Stack
 
 | Component | Technology |
 |-----------|------------|
-| Frontend | React+Typesript |
+| Frontend | React+TypeSript |
 | Backend | Node.js |
 | Map API | Bhuvan API |
 | Chatbot & AI | Python Models & Reasoning Engines |
