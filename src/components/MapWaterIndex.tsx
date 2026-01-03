@@ -17,7 +17,7 @@ import {
   Info,
   RefreshCw
 } from 'lucide-react';
-import indiaMap from 'figma:asset/40f4778fe3dc16c057826a2e72fc457e2d98fc38.png';
+import indiaMap from 'src:asset/map.png';
 
 interface MapWaterIndexProps {
   language: string;
